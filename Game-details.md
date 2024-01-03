@@ -53,5 +53,5 @@ The script's key components are:
 3. **Toggle Spawning:** You can toggle cube spawning on and off by pressing the 'Q' key on your keyboard or the 'B' button on an Oculus controller. (If you toggle cube spawning then the cubes spawning might miss the sync with the music)
 4. **Game Progress:** The game's progress is synchronized with the background music beats defined in the `beats` array.
 5. **Winning Condition:** You win the game when you successfully destroy all the cubes within the defined time frame (endTime).
-6. **Losing Condition:** You lose the game if the cubes reach a certain distance from you without being destroyed. (Note: The game will not end if the cubes touches the kill zone)
+6. **Losing Condition:** You lose the game if the cubes reach a certain distance from you without being destroyed. (Note: The game will not end if the cubes touch the kill zone)
 
