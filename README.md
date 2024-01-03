@@ -17,6 +17,7 @@ Beat Saber Game VR is a virtual reality rhythm game where players slice beats of
 
 ## How to Play
 - Wear your VR headset.
+- Click on 'A' on the controller to get the blades.
 - Use VR controllers to slice the beats in sync with the music.
 
 ## Contributing
